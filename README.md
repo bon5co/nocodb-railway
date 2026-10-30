@@ -1,5 +1,9 @@
 # nocodb-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/nocodb-202608-or-airtable-alternative-no?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [NocoDB template](https://railway.com/deploy/nocodb-202608-or-airtable-alternative-no?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for the Railway template **NocoDB | Airtable Alternative Nobody Else Can Claim**.
 
 `FROM nocodb/nocodb:2026.08.0` plus one entrypoint that closes the instance before the public
